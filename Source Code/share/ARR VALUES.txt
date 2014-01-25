@@ -1,0 +1,12 @@
+	 StringTokenizer tokens = new StringTokenizer(f2,"$#");
+						 while(tokens.hasMoreTokens())
+						 {
+
+							//System.out.println(tokens.nextToken());
+							t1=tokens.nextToken();
+							t2=tokens.nextToken();// B
+							t3=tokens.nextToken();
+							t4=tokens.nextToken();// C
+							System.out.println(t1+"/"+t2+"/"+t3+"/"+t4);
+						 }
+						 

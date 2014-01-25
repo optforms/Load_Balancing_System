@@ -1,0 +1,30 @@
+		A group consists of equal number of men and women. Of them 10% of men and 45% of 
+		women are unemployed. If a person is randomly selected from the group. 
+		Find the probability for the selected person to be an employee.
+		Ans:29/40
+		Sol: Assume men=100,women=100 then employed men & women r (100-10)+(100-45)=145
+		So probability for the selected person to be an employee=145/200=29/40 
+----------------------------------------------------------------------------------------
+		Randy's chain of used car dealership sold 16,400 cars in 1998.
+		If the chain sold 15,744 cars in 1999,  
+		by what percent did the number of cars sold decrease?
+		Ans: 4%
+
+		Sol.	Let  percentage of decrease is x , then
+	            16400(100-x)/100=15744
+	            16400-15744=164x
+	             x=656/164=4%
+----------------------------------------------------------------------------------------
+		
+		A radio when sold at a certain price gives a gain of 20%. 
+		What will be the gain percent,if sold for thrice the price?
+		A) 260% B) 150% C) 100% D) 50% E) None of these
+		
+		Ans: 260%
+	Sol. Let  x be  original cost of  the radio.
+		The solding price = (100+20)x=120x
+		If , it is sold for thrice the price ,then 3*120x=360x
+		 So, gain percent is (360-100)=260%
+-----------------------------------------------------------------------------------------
+
+	
